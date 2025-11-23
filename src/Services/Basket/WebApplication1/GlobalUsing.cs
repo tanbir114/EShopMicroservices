@@ -1,0 +1,12 @@
+﻿global using Basket.API.Models;
+global using BuildingBlocks.CQRS;
+global using Basket.API.Data;
+global using Carter;
+global using MediatR;
+global using Mapster;
+global using Discount.Grpc;
+global using Marten;
+global using FluentValidation;
+global using BuildingBlocks.Behaviors;
+global using BuildingBlocks.Exceptions;
+global using Microsoft.AspNetCore.Hosting.Server;
